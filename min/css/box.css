@@ -16,3 +16,10 @@
 {
 	color: white;
 }
+#ListAntipin a{
+	text-decoration: none;
+}
+#ListAntipin a:hover{
+	color: #d3a409;
+	
+}
