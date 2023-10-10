@@ -1,0 +1,15 @@
+.title
+{
+	margin: 15px;
+	max-width: calc( 100% - 50px );
+}
+.title-name
+{
+	padding: 10px;
+	font-size: 36px;
+}
+.title-info
+{
+	padding: 10px;
+	font-size: 18px;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'InterTight';
+    src: url('../../assets/font/InterTight/InterTight-Medium.ttf');
+}
+body
+{
+	font-family: 'InterTight';
+	color: white;
+}

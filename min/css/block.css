@@ -1,0 +1,51 @@
+.collection-block
+{
+	width: 100%;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.collection-block-button
+{
+	width: 5%;
+	cursor: pointer;
+}
+.block
+{
+	font-size: 20px;
+	width: 90%;
+}
+.block-title
+{
+	font-size: 26px;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}
+.block-content
+{
+	display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.block-content-list
+{
+	width: 20%;
+}
+.block-content-list li
+{
+	cursor: pointer;
+}
+.block-content-list li:hover
+{
+	background-color: #0008;
+	border-radius: 5px;
+}
+.block-content-text
+{
+	width: 80%;
+}
