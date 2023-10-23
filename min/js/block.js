@@ -31,6 +31,7 @@ function onloadBlock()
 		ListReshenskov,
 		ListFilin,
 		ListGlazunov,
+		ListZhurkov
 	];
 }
 
